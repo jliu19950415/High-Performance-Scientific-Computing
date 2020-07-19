@@ -1,3 +1,3 @@
 # High-Performance-Scientific-Computing
-by Professor Lumsdaine
+by Professor Lumsdaine  
 HPC is about enabling scientists and/or decision-makers to solve bigger problems and to solve them faster and better. As such, hardware, software, algorithm, and problem domain are inextricably linked. The plan of the course will be guided by the hierarchical structure of today’s largest computers: single core, hierarchical memory, SIMD, multicore, GPU, and clusters. As the course follows this progression we will apply the hardware at hand to solve some problems of interest. At the same time, we will be building up a set of (high-performance) abstractions for developing solid software and introducing a small set of necessary features in the C++ programming language to realize these abstractions and the programs built with them. We will also be learning about some of the tools typically used in an HPC environment.
