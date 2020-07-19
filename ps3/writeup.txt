@@ -1,0 +1,93 @@
+4.1
+4.2 Timing: Initially, I need about 153000000 loops to get an elapsed time of 1 second
+5.1 
+a. Without optimization (10000000)
+    Construction time for double: 234
+    Multiplication time for double: 54
+    Construction time for float: 136
+    Multiplication time for float: 54
+    ---------------------------------
+    Construction time for double: 235
+    Multiplication time for double: 55
+    Construction time for float: 137
+    Multiplication time for float: 53
+    ---------------------------------
+    Construction time for double: 235
+    Multiplication time for double: 54
+    Construction time for float: 139
+    Multiplication time for float: 53
+b. Without optimization (30000000)
+    Construction time for double: 687
+    Multiplication time for double: 159
+    Construction time for float: 408
+    Multiplication time for float: 157
+    ----------------------------------
+    Construction time for double: 699
+    Multiplication time for double: 163
+    Construction time for float: 412
+    Multiplication time for float: 159
+    ----------------------------------
+    Construction time for double: 692
+    Multiplication time for double: 166
+    Construction time for float: 419
+    Multiplication time for float: 161
+c. Without optimization (50000000)
+    Construction time for double: 1158
+    Multiplication time for double: 267
+    Construction time for float: 678
+    Multiplication time for float: 264
+    ----------------------------------
+    Construction time for double: 1148
+    Multiplication time for double: 267
+    Construction time for float: 686
+    Multiplication time for float: 267
+    ----------------------------------
+    Construction time for double: 1186
+    Multiplication time for double: 272
+    Construction time for float: 692
+    Multiplication time for float: 264
+d. With optimization (10000000)
+    Construction time for double: 207
+    Multiplication time for double: 14
+    Construction time for float: 103
+    Multiplication time for float: 6
+    ----------------------------------
+    Construction time for double: 207
+    Multiplication time for double: 14
+    Construction time for float: 103
+    Multiplication time for float: 6
+    ----------------------------------
+    Construction time for double: 206
+    Multiplication time for double: 13
+    Construction time for float: 103 
+    Multiplication time for float: 6
+e. With optimization (30000000)
+    Construction time for double: 606
+    Multiplication time for double: 42
+    Construction time for float: 302
+    Multiplication time for float: 21
+    -----------------------------------
+    Construction time for double: 610
+    Multiplication time for double: 42
+    Construction time for float: 319
+    Multiplication time for float: 20
+    -----------------------------------
+    Construction time for double: 608
+    Multiplication time for double: 41
+    Construction time for float: 305
+    Multiplication time for float: 21
+f. With optimization (50000000)
+    Construction time for double: 1004
+    Multiplication time for double: 67
+    Construction time for float: 512
+    Multiplication time for float: 34
+    -----------------------------------
+    Construction time for double: 1013
+    Multiplication time for double: 68
+    Construction time for float: 513
+    Multiplication time for float: 36
+    -----------------------------------
+    Construction time for double: 1017
+    Multiplication time for double: 68
+    Construction time for float: 513
+    Multiplication time for float: 35
