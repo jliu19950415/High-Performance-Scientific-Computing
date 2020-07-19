@@ -1,0 +1,4 @@
+512
+size	procs	time	ms_per	gflops
+512	1	18616	2.2575e-05	0.0885935
+
